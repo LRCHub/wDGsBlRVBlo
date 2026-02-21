@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "愛詩",
+  "base_artist": "V.W.P",
+  "createdAt": "2026-02-21T13:23:27.051398Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛詩",
+      "artist": "V.W.P, 花譜, 理芽, 春猿火, ヰ世界情緒, 幸祜",
+      "has_synced": false,
+      "path": "select/pl_01_愛詩_V.W.P,_花譜,_理芽,_春猿火,_ヰ世界情緒,_幸祜.txt"
+    }
+  ]
+}
